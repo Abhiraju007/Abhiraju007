@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraju007&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraju007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiraju007" alt="abhiraju007" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
 - 🔭 I’m currently working as Data Analyst in **NTT Data Services**
 
@@ -36,5 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiraju007&show_icons=true&locale=en" alt="abhiraju007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiraju007&" alt="abhiraju007" /></p>
+
 
